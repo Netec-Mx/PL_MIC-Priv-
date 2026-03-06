@@ -22,7 +22,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Práctica 1. Nombre de la práctica](CHAPTER_01/ch01-investment-portfolio/README.md) 
+### [Práctica 1. Nombre de la práctica](Capítulo_1/README.md) 
 
   - **Descripción**: xxx.
 
