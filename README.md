@@ -22,11 +22,11 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Práctica 1. Nombre de la práctica](Capítulo_1/README.md) 
+### [Práctica 1.Exploración guiada de la interfaz](Capítulo_1) 
 
-  - **Descripción**: xxx.
+  - **Descripción**: .
 
-  - ⏱️ **Duración estimada**: xx min.
+  - ⏱️ **Duración estimada**: 15 min.
 
 
 
