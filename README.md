@@ -26,9 +26,9 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
   - **Descripción**: En esta práctica el participante explorará la navegación básica de Microsoft Planner dentro de Microsoft 365, con el fin de familiarizarse con su estructura y funcionamiento.
 
-A lo largo del laboratorio, se identificarán los elementos principales de la herramienta, como los planes, buckets, tareas y diferentes vistas, comprendiendo cómo se organizan y gestionan dentro de un entorno colaborativo.
-
-Esto permitirá reconocer la utilidad de Microsoft Planner para la planificación y seguimiento de actividades en contextos reales de trabajo.
+    A lo largo del laboratorio, se identificarán los elementos principales de la herramienta, como los planes, buckets, tareas y diferentes vistas, comprendiendo cómo se organizan y gestionan dentro de un entorno colaborativo.
+    
+    Esto permitirá reconocer la utilidad de Microsoft Planner para la planificación y seguimiento de actividades en contextos reales de trabajo.
 
   - ⏱️ **Duración estimada**: 15 min.
 
@@ -38,7 +38,7 @@ Esto permitirá reconocer la utilidad de Microsoft Planner para la planificació
 
   - **Descripción**: En esta práctica los participantes aprenderán a crear un plan en Microsoft Planner con un propósito operativo claro, comprendiendo su uso dentro del entorno de Microsoft 365.
 
-A lo largo del laboratorio, se incorporarán miembros con un criterio funcional y se aplicarán reglas básicas de acceso, organización y uso seguro del plan, con el fin de establecer una gestión estructurada y adecuada del trabajo colaborativo.
+    A lo largo del laboratorio, se incorporarán miembros con un criterio funcional y se aplicarán reglas básicas de acceso, organización y uso seguro del plan, con el fin de establecer una gestión estructurada y adecuada del trabajo colaborativo.
 
   - ⏱️ **Duración estimada**: 15 min.
 
@@ -48,7 +48,7 @@ A lo largo del laboratorio, se incorporarán miembros con un criterio funcional 
 
   - **Descripción**: En esta práctica los participantes aprenderán a estructurar el trabajo técnico en tareas claras y ejecutables, definiendo correctamente sus elementos clave como responsable, fechas, prioridad, etiquetas y checklist con un enfoque operativo.
 
-Además, se enfocarán en la actualización del avance de las tareas de manera visible, con el fin de reflejar el estado real del trabajo y facilitar su seguimiento..
+    Además, se enfocarán en la actualización del avance de las tareas de manera visible, con el fin de reflejar el estado real del trabajo y facilitar su seguimiento.
 
   - ⏱️**Duración estimada**: 15 min.
 
@@ -58,9 +58,9 @@ Además, se enfocarán en la actualización del avance de las tareas de manera v
 
   - **Descripción**: En esta práctica los participantes aprenderán a organizar un tablero mediante el uso de buckets con un criterio claro y comprensible, facilitando la estructuración del trabajo.
 
-Asimismo, se enfocarán en convertir un plan operativo en una base reutilizable para ciclos futuros, optimizando su uso en diferentes escenarios.
-
-Finalmente, utilizarán filtros, agrupaciones y vistas para validar la legibilidad del plan y mejorar su interpretación dentro del equipo..
+    Asimismo, se enfocarán en convertir un plan operativo en una base reutilizable para ciclos futuros, optimizando su uso en diferentes escenarios.
+    
+    Finalmente, utilizarán filtros, agrupaciones y vistas para validar la legibilidad del plan y mejorar su interpretación dentro del equipo..
 
   - ⏱️**Duración estimada**: 15 min.
 
@@ -70,9 +70,9 @@ Finalmente, utilizarán filtros, agrupaciones y vistas para validar la legibilid
 
   - **Descripción**: En esta práctica los participantes aprenderán a llevar un plan de Planner al espacio cotidiano de colaboración del equipo, facilitando su uso dentro del entorno de trabajo.
 
-Asimismo, verificarán el efecto operativo de las asignaciones, los cambios y los vencimientos, comprendiendo su impacto en la gestión de tareas.
-
-Finalmente, distinguirán cómo se complementan Planner y Teams en un mismo entorno de trabajo..
+    Asimismo, verificarán el efecto operativo de las asignaciones, los cambios y los vencimientos, comprendiendo su impacto en la gestión de tareas.
+    
+    Finalmente, distinguirán cómo se complementan Planner y Teams en un mismo entorno de trabajo.
 
   - ⏱️**Duración estimada**: 15 min.
 
