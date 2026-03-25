@@ -2,7 +2,7 @@
 
 
 
-# Gestión de Operaciones de TI con Microsoft Planner [PL_MIC(Priv)]
+## Gestión de Operaciones de TI con Microsoft Planner 
 
 
 
@@ -22,7 +22,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Práctica 1.Exploración guiada de la interfaz](Capítulo_1) 
+### [Práctica 1. Exploración guiada de la interfaz](Capítulo_1) 
 
   - **Descripción**: En esta práctica el participante explorará la navegación básica de Microsoft Planner dentro de Microsoft 365, con el fin de familiarizarse con su estructura y funcionamiento.
 
