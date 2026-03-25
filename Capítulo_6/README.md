@@ -1,4 +1,4 @@
-# Laboratorio 6: Generar reporte y revisar métricas de un plan
+# 6.4 Laboratorio: Generar reporte y revisar métricas de un plan
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
