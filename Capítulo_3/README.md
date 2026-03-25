@@ -1,4 +1,4 @@
-# Laboratorio 3: Crear tareas reales para un proyecto TI
+# 3.4 Laboratorio: Crear tareas reales para un proyecto TI
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
