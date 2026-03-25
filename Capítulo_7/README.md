@@ -1,4 +1,4 @@
-# Laboratorio 7: Elaborar checklist y plan de puesta en marcha
+# 7.4 Laboratorio: Elaborar checklist y plan de puesta en marcha
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
