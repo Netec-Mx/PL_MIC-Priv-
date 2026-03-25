@@ -1,4 +1,4 @@
-# Laboratorio 1: Exploración guiada de la interfaz
+# 1.4 Laboratorio: Exploración guiada de la interfaz
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
