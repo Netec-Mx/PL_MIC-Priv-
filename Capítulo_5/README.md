@@ -1,4 +1,4 @@
-# Laboratorio 5: Vincular un plan con Teams y verificar notificaciones
+# 5.4 Laboratorio: Vincular un plan con Teams y verificar notificaciones
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
