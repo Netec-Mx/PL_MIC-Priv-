@@ -1,4 +1,4 @@
-# Laboratorio 2: Configurar un plan con miembros y permisos
+# 2.4 Laboratorio: Configurar un plan con miembros y permisos
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
