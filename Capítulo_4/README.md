@@ -1,4 +1,4 @@
-# Laboratorio 4: Crear plantilla y organizar un plan por buckets
+# 4.4 Laboratorio: Crear plantilla y organizar un plan por buckets
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
